@@ -6,7 +6,7 @@
 
 [Um breve resumo](#um-breve-resumo)
 
-[Slide](#tecnologias)
+[Slide](https://github.com/leandrolid/dio-git/blob/main/Criando%20seu%20Primeiro%20Reposit%C3%B3rio.pdf)
 
 <br>
 
